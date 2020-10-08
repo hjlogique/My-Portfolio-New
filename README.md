@@ -23,8 +23,6 @@ Here are the links:
 [Link to my resume](docs/henrylogique_resume.pdf)
 <br/><br/>
 [Link to my LinkedIn profile](https://www.linkedin.com/in/henry-jean-logique-b63707b3/)
-<br/><br/>
-[Link to my resume](docs/henrylogique_resume.pdf)
 
 ```
 The followings are the screenshots of my new portfolio website:
